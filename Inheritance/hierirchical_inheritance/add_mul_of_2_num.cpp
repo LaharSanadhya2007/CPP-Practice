@@ -7,7 +7,7 @@ class parent
     public:
     void input()
     {
-        cout<<"enter 2 nums: ";
+        cout<<"enter 2 numbers: ";
         cin>>a>>b;
     }
 };
