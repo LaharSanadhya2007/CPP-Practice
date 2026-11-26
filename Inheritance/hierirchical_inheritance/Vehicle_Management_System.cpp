@@ -7,9 +7,9 @@ class Vehicle
     public:
     void getVehicleDetails()
     {
-        cout<<"enter brand: ";
+        cout<<"enter brand name: ";
         cin>>brand;
-        cout<<"enter model: ";
+        cout<<"enter model name: ";
         cin>>model;
     }
 };
