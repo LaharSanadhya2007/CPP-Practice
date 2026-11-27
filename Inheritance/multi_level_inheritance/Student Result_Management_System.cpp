@@ -8,7 +8,7 @@ class Student
     public:
     void getStudentDetails()
     {
-        cout<<"enter name: ";
+        cout<<"enter name of student: ";
         cin>>name;
         cout<<"enter roll no.: ";
         cin>>rollNo;
